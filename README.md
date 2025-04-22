@@ -1,0 +1,2 @@
+# krypton-updater
+kryptonのGUIアップデーター
